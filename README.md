@@ -1,19 +1,4 @@
-## Reversal Icon Theme
-A colorful design icon theme for linux desktops
-
-## Install
-
-Usage:  `./install.sh`  **[OPTIONS...]** **[COLOR VARIANTS...]**
-
-|  OPTIONS: |                                                                               |
-|:----------|:------------------------------------------------------------------------------|
-| -a        | Install all color versions                                                    |
-| -d        | Specify theme destination directory (**Default:** _$HOME/.local/share/icons_) |
-| -n        | Specify theme name (**Default:** _Tela_)                                      |
-| -h        | Show this help                                                                |
-
-## view
-![view](View-1.png?raw=true)
-![view](View-2.png?raw=true)
-![view](View-3.png?raw=true)
-
+## Reversal Icon Theme - Blue Fork
+A fork of the beautiful [Reversal Icon Theme](https://github.com/yeyushengfan258/Reversal-icon-theme).
+This repository is meant as a submodule for dotfiles, so users don't have to clone the whole source code just for blue icons.
+All credit goes to @yeyushengfan258
